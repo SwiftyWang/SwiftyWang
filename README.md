@@ -5,14 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=SwiftyWang&label=Profile%20views&color=0e75b6&style=flat" alt="SwiftyWang" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SwiftyWang&theme=flat&no-frame=true&margin-w=10" alt="SwiftyWang" />
-  </a>
-</p>
-
----
-
 - 📱 Long-time mobile engineer — started on **Android**, now working across **iOS & Android**
 - 📦 Author of open-source Android libraries — [ToastBar](https://github.com/SwiftyWang/ToastBar) · [FingerColoring-Android](https://github.com/SwiftyWang/FingerColoring-Android) · [AnimatePlayButton](https://github.com/SwiftyWang/AnimatePlayButton) and [more](https://github.com/SwiftyWang?tab=repositories)
 - 🔒 A lot of my day-to-day work lives in **private repos** — crypto tooling, automation, cloud compiler, CI scripts
